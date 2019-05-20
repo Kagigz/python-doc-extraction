@@ -1,5 +1,4 @@
 import os
-import numpy as np
 from pptx import Presentation
 
 def extract_pptx(filename):
