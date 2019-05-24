@@ -1,6 +1,7 @@
 # Document extraction in python
 
 This sample shows how to extract text and process it, as well as how to get the most frequent words, from Word or Powerpoint documents in python.
+In the *FunctionApp* folder, you'll find this code in an Azure Python function.
 
 ## Run the sample
 
