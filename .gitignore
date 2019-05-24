@@ -102,3 +102,49 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Function App
+
+**/bin
+**/obj
+**/csx
+**/.vs
+**/edge
+**/Publish
+**/files/
+**/UploadDocFunction/
+
+**/*.user
+**/*.suo
+**/*.cscfg
+**/*.Cache
+**/project.lock.json
+
+**/packages
+**/TestResults
+
+**/tools/NuGet.exe
+**/App_Data
+**/secrets
+**/data
+**/.secrets
+**/appsettings.json
+**/node_modules
+**/dist
+
+# Local python packages
+**/.python_packages/
+
+# Python Environments
+**/.env
+**/.venv
+**/env/
+**/venv/
+**/ENV/
+**/env.bak/
+**/venv.bak/
+
+# Byte-compiled / optimized / DLL files
+**/__pycache__/
+**/*.py[cod]
+**/*$py.class
