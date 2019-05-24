@@ -1,5 +1,0 @@
-blobConfig = {
-    'ACCOUNTNAME': 'YOUR_ACCOUNT_NAME',
-    'KEY': "YOUR_KEY",
-    'CONTAINER': 'CONTAINER_NAME'
-}
